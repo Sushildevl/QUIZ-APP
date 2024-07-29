@@ -1,2 +1,1 @@
-# QUIZ-APP
-# QUIZ-APP
+# Quiz
